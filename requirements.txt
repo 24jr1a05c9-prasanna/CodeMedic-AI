@@ -1,0 +1,2 @@
+streamlit>=1.35
+ruff>=0.5
